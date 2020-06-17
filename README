@@ -1,0 +1,6 @@
+A Flink state interactor app.
+
+Jar args:
+1) savepointPath
+2) operatorUid
+3) stateName
