@@ -1,6 +1,10 @@
-A Flink state interactor app.
+A Flink state reader app.
 
 Jar args:
 1) savepointPath
 2) operatorUid
-3) stateName
+3) listStateName
+4) valueStateName
+5) listStateCsvFileName
+6) valueStateCsvFileName
+7) rocksDbStateBackendUri
